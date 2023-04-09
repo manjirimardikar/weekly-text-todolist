@@ -1,3 +1,18 @@
+body {
+  background-color: gray;
+  color: white;
+}
+
+header {
+  font-family: monospace;
+  font-weight: bold;
+  font-size: 40px;
+  border: 2px solid #fff;
+  width: 25%;
+  margin: 50px auto;
+  padding: 50px;
+}
+
 .App {
   text-align: center;
 }
